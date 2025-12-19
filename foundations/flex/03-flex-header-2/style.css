@@ -49,16 +49,11 @@ a {
   color: rebeccapurple;
 }
 
-.header-left {
-  display: flex;
-  align-items: inherit;
-  gap: 16px;
-}
-
+.header-left,
 .header-right {
   display: flex;
-  gap: 16px;
   align-items: inherit;
+  gap: 16px;
 }
 
 .notifications {
